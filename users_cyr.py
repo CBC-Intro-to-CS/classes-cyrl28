@@ -32,7 +32,7 @@ person.greet_user()
 
 # print(f"The user is {user.age}")
 # print(f"The user is {user.number}")
-#linus
+
 
 
 
